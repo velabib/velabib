@@ -1,16 +1,21 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <title>Labib's Portfolio</title>
+</head>
+<body>
+  <h1>আমার নাম Labib</h1>
+  <p>আমি একজন ভিডিও এডিটর / কনটেন্ট ক্রিয়েটর</p>
 
-<!--
-**velabib/velabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- ভিডিও ১ -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_১" frameborder="0" allowfullscreen></iframe>
 
-Here are some ideas to get you started:
+  <hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- ভিডিও ২ -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_২" frameborder="0" allowfullscreen></iframe>
+
+  <p>যোগাযোগ: velabib@example.com</p>
+</body>
+</html>
